@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Masiv/Masiv.iml" filepath="$PROJECT_DIR$/Masiv/Masiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoloLearn.iml" filepath="$PROJECT_DIR$/SoloLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/all/all.iml" filepath="$PROJECT_DIR$/all/all.iml" />
+    </modules>
+  </component>
+</project>
