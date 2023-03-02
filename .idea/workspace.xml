@@ -1,11 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c79be12f-6329-4543-8947-a27b05b51c67" name="Changes" comment="" />
+    <list default="true" id="c79be12f-6329-4543-8947-a27b05b51c67" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/Sololearn/Sololearn.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/Sololearn/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/a16_02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/a17.02/a17.02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/a17.02/dz_17_02/dz_17_02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/a17.02/dz_17_02/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/a17.02/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/a17.02/theory" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/dz 16.02/dz 16.02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/dz 16.02/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/info/info.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/info/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/out/production/Sololearn/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/out/production/a17.02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/out/production/dz 16.02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/out/production/dz_17_02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a16_02/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a20.02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a20.02/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a20.02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a20.02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a20.02/a20.02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a20.02/out/production/a20.02/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a20.02/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a20_02/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a20_02/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a20_02/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/a20_02/a20_02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/abc2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/abc2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/abc2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/abc2/abc2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/abc2/out/production/abc2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/abc2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled1/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled10/out/production/untitled10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled10/out/production/untitled10/Scanner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled10/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled10/src/Srting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled10/untitled10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled11/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled11/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled11/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled11/out/production/untitled11/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled11/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled11/untitled11.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled12/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled12/out/production/untitled12/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled12/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled12/untitled12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled13/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled13/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled13/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled13/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled13/untitled13.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled14/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled14/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled14/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled14/out/production/untitled14/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled14/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled14/untitled14.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled15/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled15/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled15/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled15/out/production/untitled15/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled15/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled15/untitled15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled16/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled16/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled16/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled16/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled16/untitled16.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled17/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled17/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled17/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled17/out/production/untitled17/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled17/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled17/untitled17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled18/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled18/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled18/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled18/out/production/untitled18/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled18/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled18/untitled18.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled19/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled19/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled19/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled19/out/production/untitled19/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled19/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled19/untitled19.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled2/untitled2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled20/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled20/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled20/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled20/out/production/untitled20/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled20/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled20/untitled20.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled3/out/production/untitled3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled3/untitled3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled4/out/production/untitled4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled4/untitled4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled5/out/production/untitled5/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled5/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled5/untitled5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled6/untitled6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled7/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled7/untitled7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled8/out/production/untitled8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled8/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled8/untitled8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled9/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled9/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled9/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled9/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled9/out/production/untitled9/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled9/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled9/untitled9.eml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled9/untitled9.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/untitled9/untitled9.userlibraries" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2MLN2Ev5ThfZbGaXUDjDSuUx0tl" />
   <component name="ProjectViewState">
@@ -16,7 +182,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/AIR AIT"
+    "last_opened_file_path": "C:/AIR AIT/MyProjeckt"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
