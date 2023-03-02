@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Class Enums/Class Enums.iml" filepath="$PROJECT_DIR$/Class Enums/Class Enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MetodsWithFiles/MetodsWithFiles.iml" filepath="$PROJECT_DIR$/MetodsWithFiles/MetodsWithFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/break continue/break continue.iml" filepath="$PROJECT_DIR$/break continue/break continue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chislo_vCub/chislo_vCub.iml" filepath="$PROJECT_DIR$/chislo_vCub/chislo_vCub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cycles/cycles.iml" filepath="$PROJECT_DIR$/cycles/cycles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decimal numbers/decimal numbers.iml" filepath="$PROJECT_DIR$/decimal numbers/decimal numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/masiv of days/masiv of days.iml" filepath="$PROJECT_DIR$/masiv of days/masiv of days.iml" />
+      <module fileurl="file://$PROJECT_DIR$/square table/square table.iml" filepath="$PROJECT_DIR$/square table/square table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zadach.iml" filepath="$PROJECT_DIR$/zadach.iml" />
+    </modules>
+  </component>
+</project>
