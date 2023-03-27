@@ -52,7 +52,7 @@ public class Main {
                 }
                 case 3: {
                     myMenu = Menu.DELETE;
-                    remove_task (todoList);
+                    remove_task(todoList);
                     print_tasks(todoList);
                     break;
                 }
@@ -61,15 +61,15 @@ public class Main {
                     System.out.println("Спасибо, до свидания!");
                     return;
                 }
-                default:{
+                default: {
                     System.out.println("Введите число 1, 2, 3 или 4");
                 }
             }
         }
 
 
-
     }
+
     //метод который считывает выбор пользователя из меню
     public static int readMenueChoice() {
         Scanner sc = new Scanner(System.in);
@@ -82,15 +82,17 @@ public class Main {
         }
         return menuChoice;
     }
+
     // метод для добавления задач в список задач
-    public static void add_task (List<String> tasks) {
+    public static void add_task(List<String> tasks) {
         System.out.println("Введите задачу :");
         Scanner sc = new Scanner(System.in);
         String task = sc.nextLine(); // считали строку с задачи
         tasks.add(task); // в список tasks вносим методом add новое значение
     }
+
     // этот метод печатает список задач
-   public static  void print_tasks (List<String> tasks) {
+    public static void print_tasks(List<String> tasks) {
         for (int i = 0; i < tasks.size(); i++) {
             int n = i + 1; // задаем номер задачи в списке
             System.out.println(n + ". " + tasks.get(i)); // печатаем задачу
@@ -115,9 +117,11 @@ public class Main {
         }
 
     }
+
     // Запись дел в файл
-    String path ="C:\\AIR AIT\\MyProjeckt\\lesson 34\\code\\todo list\\src\\";
+    String path = "C:\\AIR AIT\\MyProjeckt\\lesson 34\\code\\todo list\\src\\";
     String fileName = "data.txt";
+
     private static void crateFile(String path, String fleName, List<String> tasks) {
         try {
             File myFile = new File(path + fleName); // Укажите имя файла
@@ -131,6 +135,7 @@ public class Main {
             e.printStackTrace();
         }
     }
+
     public static String print_Task(String path, String fileName, String data, List<String> tasks) {
         try {
             File myFile = new File(path + fileName + tasks);
@@ -146,6 +151,7 @@ public class Main {
         }
         return data;
     }
+
 
 
 }
